@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15e534b0-7a0b-4ddb-b504-ccfb6a03bd07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font-size</find>
+      <find>log</find>
+      <find>${ColorConfig.l</find>
+      <find>fadeInRight</find>
+      <find>rightSide</find>
+      <find>options</find>
+      <find>fadeInLeft</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1868" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1h8IaRpCdmOGTCirDFDy6nqqVDj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/Images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/Images" />
+      <recent name="$PROJECT_DIR$/src/assets/svg" />
+      <recent name="$PROJECT_DIR$/src/assets/Icomoon" />
+      <recent name="$PROJECT_DIR$/src/assets/Images/mobileSize" />
+      <recent name="$PROJECT_DIR$/src/assets/Images/mediumSize" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e534b0-7a0b-4ddb-b504-ccfb6a03bd07" name="Default Changelist" comment="" />
+      <created>1551011375834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551011375834</updated>
+      <workItem from="1551011378069" duration="35215000" />
+      <workItem from="1551076742688" duration="628000" />
+      <workItem from="1551164886706" duration="900000" />
+      <workItem from="1599386357894" duration="254000" />
+    </task>
+    <task id="LOCAL-00001" summary="change before width">
+      <created>1551165181578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551165181578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change before width" />
+    <option name="LAST_COMMIT_MESSAGE" value="change before width" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1897" height="272" key="GridCell.Tab.0.bottom" timestamp="1599386392665">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1599386392665" />
+    <state width="1897" height="272" key="GridCell.Tab.0.center" timestamp="1599386392664">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1599386392664" />
+    <state width="1897" height="272" key="GridCell.Tab.0.left" timestamp="1599386392664">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1599386392664" />
+    <state width="1897" height="272" key="GridCell.Tab.0.right" timestamp="1599386392664">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1599386392664" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/DownloadBanner/DownloadBanner.js</url>
+          <line>164</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/AppSelect/AppSelect.js</url>
+          <line>124</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/DownloadBanner/DownloadBanner.js</url>
+          <line>158</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/AppSelect/AppSelect.js</url>
+          <line>311</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/DownloadBanner/DownloadBanner.js</url>
+          <line>55</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/DownloadBanner/DownloadBanner.js</url>
+          <line>141</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/AppSelect/AppSelect.js</url>
+          <line>141</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/AppSelect/AppSelect.js</url>
+          <line>329</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
